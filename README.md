@@ -1,3 +1,5 @@
+# Property Registration Network
+
 1. Command to generate the crypto-materials:
 ./fabricNetwork.sh generate
 
